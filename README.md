@@ -2,7 +2,7 @@
 
 Esse é um guia para orientar a todos aqueles que estão començando a desenvolver utilizando o Lazarus e também **muito útil para aqueles que estão vindo do Delphi**. Esse guia são para as pessoas que já possem conhecimento técnico na área programação e não visa ensinar sintaxe ou lógica de programação (pelo não por enquanto).
 
-**Índice**
+# Índice
 
 - [O que é, o que é?](#O-que-&eacute;-o-que-&eacute;)
   * [O que é Lazarus?](#O-que-&eacute;-Lazarus)
@@ -37,46 +37,9 @@ Na verdade não é barato, é de graça. O Lazarus é gratuíto e open-source. P
 É uma linguagem relativamente fácil e simples de aprender.
 
 ## É multi plataforma
-O Lazarus suporta algumas tantas arquiteturas: 
-Intel i386
-Intel i486
-Intel 8086
-Intel x86
-AMD64/x86-64
-PowerPC
-PowerPC64
-SPARC
-ARM
-AArch64
-MIPS
-JVM
-m68K
+O Lazarus suporta algumas tantas arquiteturas: AArch64, AMD64/x86-64, ARM, AVR, ECMASsript, i386, i8086, Intel i486, Intel x86, JVM, m68K, MIPS, mipsel, PowerPC, PowerPC64, SPARC, x86_64
 
-E alguns sistemas operacionais:
-Linux
-Amiga
-FreeBSD
-Haiku
-BeOS
-Mac OS X
-iOS
-Darwin
-DOS (16 e 32 bit)
-Win32
-Win64
-WinCE
-OS/2
-MorphOS
-Nintendo GBA
-Nintendo DS
-Nintendo Wii
-Android 32 e 64bit
-Motorola 68k
-Solaris
-NetBSD
-Netware
-OpenBSD
-Symbian
+E alguns sistemas operacionais: AIX, Amiga, Android (32 e 64 bit), BeOS, Darwin, DOS (16 e 32 bit), emx, FreeBSD, Go32v2, Haiku, iOS, iPhoneSim, Linux, Mac OS, MorphOS, Motorola 68k, MSDOS, NDS, NetBSD, Netware, NetwLibC, Nintendo DS, Nintendo GBA, Nintendo Wii, OpenBSD, OS/2, PalmOs, QNX, Solaris, Symbian, Watcom, wdox, Wii, Win32, Win64, WinCE
 
 Da pro gasto né?
 
