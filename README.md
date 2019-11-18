@@ -14,6 +14,10 @@ Esse é um guia para orientar a todos aqueles que estão començando a desenvolv
   * [É multi plataforma](#&Eacute;-multi-plataforma)
   * [Dependências](#Depend&ecirc;ncias)
   * [Por que não utilizar o Lazarus?](#Por-que-n&atilde;o-utilizar-o-Lazarus)
+- [Instalação](#Instala&ccedil;&atilde;o)
+  * [Para os conservadores](#Para-os-conservadores)
+  * [Para os ousados](#Para-os-ousados)
+  * [Para os malucos](#Para-os-malucos)
 
 # O que é, o que é?
 
@@ -37,9 +41,9 @@ Na verdade não é barato, é de graça. O Lazarus é gratuíto e open-source. P
 É uma linguagem relativamente fácil e simples de aprender.
 
 ## É multi plataforma
-O Lazarus suporta algumas tantas arquiteturas: AArch64, AMD64/x86-64, ARM, AVR, ECMASsript, i386, i8086, Intel i486, Intel x86, JVM, m68K, MIPS, mipsel, PowerPC, PowerPC64, SPARC, x86_64
+O Lazarus suporta algumas tantas arquiteturas: AArch64, AMD64/x86-64, ARM, AVR, ECMASsript, i386, i8086, Intel i486, Intel x86, JVM, m68K, MIPS, mipsel, PowerPC, PowerPC64, SPARC, x86_64.
 
-E alguns sistemas operacionais: AIX, Amiga, Android (32 e 64 bit), BeOS, Darwin, DOS (16 e 32 bit), emx, FreeBSD, Go32v2, Haiku, iOS, iPhoneSim, Linux, Mac OS, MorphOS, Motorola 68k, MSDOS, NDS, NetBSD, Netware, NetwLibC, Nintendo DS, Nintendo GBA, Nintendo Wii, OpenBSD, OS/2, PalmOs, QNX, Solaris, Symbian, Watcom, wdox, Wii, Win32, Win64, WinCE
+E alguns sistemas operacionais: AIX, Amiga, Android (32 e 64 bit), BeOS, Darwin, DOS (16 e 32 bit), emx, FreeBSD, Go32v2, Haiku, iOS, iPhoneSim, Linux, Mac OS, MorphOS, Motorola 68k, MSDOS, NDS, NetBSD, Netware, NetwLibC, Nintendo DS, Nintendo GBA, Nintendo Wii, OpenBSD, OS/2, PalmOs, QNX, Solaris, Symbian, Watcom, wdox, Wii, Win32, Win64, WinCE.
 
 Da pro gasto né?
 
@@ -48,3 +52,14 @@ Nenhuma. Você não precisa levar framework algum, tampouco instalar SDK ou bibl
 
 ## Por que não utilizar o Lazarus?
 Preguiça.
+
+# Instalação
+
+## Para os conservadores
+Basta acessar a [página oficial](https://freepascal.org/download.html), escolher seu ambiente, baixar e instalar.
+
+## Para os ousados
+Basta acessar a [página oficial dos fontes](https://sourceforge.net/projects/freepascal), baixar todos os fontes e compilar.
+
+## Para os malucos
+Basta acessar a [página do fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe), encontrar o binário adequado e instalar.
