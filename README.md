@@ -63,7 +63,7 @@ Futuramente teremos uma sessão detalhando cada um desses métodos.
 O método *conservador* consiste na instalação convencional: basta acessar a [página oficial (https://freepascal.org)](https://freepascal.org/download.html), escolher seu ambiente, baixar e instalar.
 
 ## Para os ousados
-O método *ousadia* é para os intrépidos que querer a versão mais recente, ou que necessitam de versões específica.  
+O método *ousadia* é para os intrépidos que querem a versão mais recente, ou que necessitam de versões específica.  
 
 Para tal, é necessário um mínimo de conhecimento a respeito... e depois basta acessar os repositórios:  
 [Repositório do FPC (https://svn.freepascal.org/svn/fpc/trunk)](https://svn.freepascal.org/svn/fpc/trunk)  
@@ -80,5 +80,5 @@ Existem projetos que auxiliam a instalação, automatizando praticamente tudo. U
 
 ## Grupos brasileiros no telegram
 [Lazarus Free Pascal](https://telegram.me/lazarusfreepascal1)  
-LazarusBR
+LazarusBR  
 Sharing Lazarus
