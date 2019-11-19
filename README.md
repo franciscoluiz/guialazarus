@@ -67,20 +67,22 @@ O método *conservador* consiste na instalação convencional, é o famoso "next
 ## Para os ousados
 O método *ousadia* é para os intrépidos que querem a versão mais recente, ou que necessitam de versões específicas.  
 
-Para tal, é necessário um mínimo de conhecimento a respeito... e depois basta acessar os repositórios:  
+Para tal, é necessário um mínimo de conhecimento a respeito, posteriormente basta acessar os repositórios:  
 [Repositório do FPC (https://svn.freepascal.org/svn/fpc/trunk)](https://svn.freepascal.org/svn/fpc/trunk)  
 [Repositório do Lazarus (https://svn.freepascal.org/svn/lazarus/trunk)](https://svn.freepascal.org/svn/lazarus/trunk)  
 Baixar, compilar e ser feliz.
 
 ## Para os malucos
-Existem projetos que auxiliam a instalação, automatizando praticamente tudo. Um desses projetos é o fpcupdeluxe. [página do fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe), encontrar o binário adequado e instalar.
+Diga-se de passagem *maluco* pois você estará outorgando o trabalho de instalar para programas de terceiros. Existem projetos que auxiliam a instalação, automatizando praticamente tudo, inclusive facilitando o processo de crosscompiling.  
+
+Um desses projetos é o **fpcupdeluxe**. [página do fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe), encontrar o binário adequado e instalar.
 
 # Comunidade
 
-## Grupos brasileiros no whatsapp
-[🖥 Lazarus Brasil](https://chat.whatsapp.com/GCfWliSz47DJmwy5cgquFL)
-
 ## Grupos brasileiros no telegram
 [Lazarus Free Pascal](https://telegram.me/lazarusfreepascal1)  
-LazarusBR  
-Sharing Lazarus
+[Sharing Lazarus](https://telegram.me/joinchat/AAAAAEPh7SN8YxGA5zEy0g)
+[LazarusBR (solicitar a entrada](https://t.me/LazarusBR)
+
+## Grupos brasileiros no whatsapp
+[🖥 Lazarus Brasil](https://chat.whatsapp.com/GCfWliSz47DJmwy5cgquFL)  
