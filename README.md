@@ -1,6 +1,8 @@
 # Guia Lazarus
 
-Esse é um guia para orientar a todos aqueles que estão começando a desenvolver utilizando o Lazarus e também **muito útil para aqueles que estão vindo do Delphi**. Esse guia são para as pessoas que já possem conhecimento técnico na área programação e não visa ensinar sintaxe ou lógica de programação (pelo não por enquanto).
+Esse é um guia para orientar a todos aqueles que estão começando a desenvolver utilizando o Lazarus e também **muito útil para aqueles que estão vindo do Delphi**. Esse guia são para as pessoas que já possem conhecimento técnico na área programação e não visa ensinar sintaxe ou lógica de programação (pelo não por enquanto).  
+
+Com a devida dedicação, qualquer um pode se tornar um lazarento!
 
 # Índice
 
@@ -38,7 +40,7 @@ Para todos os efeitos, quando utilizarmos nesse guia o termo **Lazarus**, estare
 # Por que utilizar o Lazarus?
 
 ## É barato
-Na verdade não é barato, é de graça. O Lazarus é gratuito e open-source. Para ficar mais claro: você não precisa comprar licença alguma para desenvolver e vender/alugar seus projetos. Você não precisa vender seu rim ou sua córnea para comprar uma licença. Basta instalar e usar.
+Na verdade não é barato, é de graça. O Lazarus é gratuito e open-source. Para ficar mais claro: você não precisa comprar licença alguma para desenvolver e vender/alugar seus projetos. Não é necessário hipotecar sua casa para adquirir o direito de uso. Você não precisa vender seu rim ou sua córnea para comprar uma licença. Basta instalar e usar.
 
 ## É rápido, simples e prático
 É uma linguagem relativamente fácil e simples de aprender.
@@ -70,7 +72,7 @@ Para tal, é necessário um mínimo de conhecimento a respeito... e depois basta
 [Repositório do Lazarus (https://svn.freepascal.org/svn/lazarus/trunk)](https://svn.freepascal.org/svn/lazarus/trunk)  
 Baixar, compilar e ser feliz.
 
-## Para os malucos
+## Para os malucos'
 Existem projetos que auxiliam a instalação, automatizando praticamente tudo. Um desses projetos é o fpcupdeluxe. [página do fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe), encontrar o binário adequado e instalar.
 
 # Comunidade
