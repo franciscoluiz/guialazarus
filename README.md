@@ -62,17 +62,17 @@ Preguiça.
 Futuramente teremos uma sessão detalhando cada um desses métodos.
 
 ## Para os conservadores
-O método *conservador* consiste na instalação convencional: basta acessar a [página oficial (https://freepascal.org)](https://freepascal.org/download.html), escolher seu ambiente, baixar e instalar.
+O método *conservador* consiste na instalação convencional, é o famoso "next, next, next". Para tal basta acessar a [página oficial (https://freepascal.org)](https://freepascal.org/download.html), escolher seu ambiente, baixar e instalar.
 
 ## Para os ousados
-O método *ousadia* é para os intrépidos que querem a versão mais recente, ou que necessitam de versões específica.  
+O método *ousadia* é para os intrépidos que querem a versão mais recente, ou que necessitam de versões específicas.  
 
 Para tal, é necessário um mínimo de conhecimento a respeito... e depois basta acessar os repositórios:  
 [Repositório do FPC (https://svn.freepascal.org/svn/fpc/trunk)](https://svn.freepascal.org/svn/fpc/trunk)  
 [Repositório do Lazarus (https://svn.freepascal.org/svn/lazarus/trunk)](https://svn.freepascal.org/svn/lazarus/trunk)  
 Baixar, compilar e ser feliz.
 
-## Para os malucos'
+## Para os malucos
 Existem projetos que auxiliam a instalação, automatizando praticamente tudo. Um desses projetos é o fpcupdeluxe. [página do fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe), encontrar o binário adequado e instalar.
 
 # Comunidade
