@@ -18,6 +18,9 @@ Esse é um guia para orientar a todos aqueles que estão começando a desenvolve
   * [Para os conservadores](#Para-os-conservadores)
   * [Para os ousados](#Para-os-ousados)
   * [Para os malucos](#Para-os-malucos)
+- [Comunidade](#Comunidade)
+  * [Grupos brasileiros no telegram ](#Grupos-brasileiros-no-telegram )
+  * [Grupos brasileiros no whatsapp ](#Grupos-brasileiros-no-whatsapp )
 
 # O que é, o que é?
 
@@ -54,17 +57,28 @@ Nenhuma. Você não precisa levar framework algum, tampouco instalar SDK ou bibl
 Preguiça.
 
 # Instalação
-
 Futuramente teremos uma sessão detalhando cada um desses métodos.
 
 ## Para os conservadores
-Basta acessar a [página oficial](https://freepascal.org/download.html), escolher seu ambiente, baixar e instalar.
+O método *conservador* consiste na instalação convencional: basta acessar a [página oficial (https://freepascal.org)](https://freepascal.org/download.html), escolher seu ambiente, baixar e instalar.
 
 ## Para os ousados
-Basta acessar os repositórios:
-[Repositório do FPC](https://svn.freepascal.org/svn/fpc/trunk)
-[Repositório do Lazarus](https://svn.freepascal.org/svn/lazarus/trunk)
+O método *ousadia* é para os intrépidos que querer a versão mais recente, ou que necessitam de versões específica.  
+
+Para tal, é necessário um mínimo de conhecimento a respeito... e depois basta acessar os repositórios:  
+[Repositório do FPC (https://svn.freepascal.org/svn/fpc/trunk)](https://svn.freepascal.org/svn/fpc/trunk)  
+[Repositório do Lazarus (https://svn.freepascal.org/svn/lazarus/trunk)](https://svn.freepascal.org/svn/lazarus/trunk)  
 Baixar, compilar e ser feliz.
 
 ## Para os malucos
-Basta acessar a [página do fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe), encontrar o binário adequado e instalar.
+Existem projetos que auxiliam a instalação, automatizando praticamente tudo. Um desses projetos é o fpcupdeluxe. [página do fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe), encontrar o binário adequado e instalar.
+
+# Comunidade
+
+## Grupos brasileiros no whatsapp
+[🖥 Lazarus Brasil](https://chat.whatsapp.com/GCfWliSz47DJmwy5cgquFL)
+
+## Grupos brasileiros no telegram
+[Lazarus Free Pascal](https://telegram.me/lazarusfreepascal1)  
+LazarusBR
+Sharing Lazarus
