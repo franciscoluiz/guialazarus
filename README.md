@@ -75,7 +75,7 @@ Baixar, compilar e ser feliz.
 ## Para os malucos
 Diga-se de passagem *maluco* pois você estará outorgando o trabalho de instalar para programas de terceiros. Existem projetos que auxiliam a instalação, automatizando praticamente tudo, inclusive facilitando o processo de crosscompiling.  
 
-Um desses projetos é o **fpcupdeluxe**. [página do fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe), encontrar o binário adequado e instalar.
+Um desses projetos é o [**fpcupdeluxe**](https://github.com/LongDirtyAnimAlf/fpcupdeluxe).
 
 # Comunidade
 
