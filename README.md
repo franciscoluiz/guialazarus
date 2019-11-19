@@ -81,8 +81,8 @@ Um desses projetos é o [**fpcupdeluxe**](https://github.com/LongDirtyAnimAlf/fp
 
 ## Grupos brasileiros no telegram
 [Lazarus Free Pascal](https://telegram.me/lazarusfreepascal1)  
-[Sharing Lazarus](https://telegram.me/joinchat/AAAAAEPh7SN8YxGA5zEy0g)
-[LazarusBR (solicitar a entrada](https://t.me/LazarusBR)
+[Sharing Lazarus](https://telegram.me/joinchat/AAAAAEPh7SN8YxGA5zEy0g)  
+[LazarusBR (solicitar a entrada](https://telegram.me/LazarusBR)
 
 ## Grupos brasileiros no whatsapp
 [🖥 Lazarus Brasil](https://chat.whatsapp.com/GCfWliSz47DJmwy5cgquFL)  
