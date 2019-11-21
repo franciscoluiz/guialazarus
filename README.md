@@ -21,10 +21,13 @@ Com a devida dedicação, qualquer um pode se tornar um lazarento!
   * [Para os ousados](#Para-os-ousados)
   * [Para os malucos](#Para-os-malucos)
 - [Comunidade](#Comunidade)
-  * [Grupos brasileiros no telegram](#Grupos-brasileiros-no-telegram )
-  * [Grupos brasileiros no whatsapp](#Grupos-brasileiros-no-whatsapp )
-  * [Grupos brasileiros no google groups](#Grupos-brasileiros-no-google-groups )
-
+  * [Grupos brasileiros no telegram](#Grupos-brasileiros-no-telegram)
+  * [Grupos brasileiros no whatsapp](#Grupos-brasileiros-no-whatsapp)
+  * [Grupos brasileiros no google groups](#Grupos-brasileiros-no-google-groups)
+- [Componentes](#Componentes)
+  * [Clássicos](#Cl&aacute;ssicos)
+  * [Brazucas](#Brazucas)
+  
 # O que é, o que é?
 
 ## O que é Lazarus?
@@ -90,3 +93,14 @@ Um desses projetos é o [**fpcupdeluxe**](https://github.com/LongDirtyAnimAlf/fp
 
 ## Grupos brasileiros no google groups
 [Lazarus-BR](https://groups.google.com/forum/#!forum/lazarus-br)  
+
+# Componentes
+
+## Clássicos
+[ZeosLib](https://sourceforge.net/projects/zeoslib/)  
+
+## Brazucas
+[Brook Framework](https://github.com/risoflora/brookframework)  
+[REST Dataware](https://sourceforge.net/projects/rest-dataware-componentes)
+
+
