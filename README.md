@@ -97,10 +97,10 @@ Um desses projetos é o [**fpcupdeluxe**](https://github.com/LongDirtyAnimAlf/fp
 # Componentes
 
 ## Clássicos
-[ZeosLib](https://sourceforge.net/projects/zeoslib/)  
+[ZeosLib](https://sourceforge.net/projects/zeoslib)  
+[mORMot](https://github.com/synopse/mORMot)
 
 ## Brazucas
 [Brook Framework](https://github.com/risoflora/brookframework)  
-[REST Dataware](https://sourceforge.net/projects/rest-dataware-componentes)
-
+[REST Dataware](https://sourceforge.net/projects/rest-dataware-componentes)  
 
