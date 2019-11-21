@@ -21,8 +21,9 @@ Com a devida dedicação, qualquer um pode se tornar um lazarento!
   * [Para os ousados](#Para-os-ousados)
   * [Para os malucos](#Para-os-malucos)
 - [Comunidade](#Comunidade)
-  * [Grupos brasileiros no telegram ](#Grupos-brasileiros-no-telegram )
-  * [Grupos brasileiros no whatsapp ](#Grupos-brasileiros-no-whatsapp )
+  * [Grupos brasileiros no telegram](#Grupos-brasileiros-no-telegram )
+  * [Grupos brasileiros no whatsapp](#Grupos-brasileiros-no-whatsapp )
+  * [Grupos brasileiros no google groups](#Grupos-brasileiros-no-google-groups )
 
 # O que é, o que é?
 
@@ -86,3 +87,6 @@ Um desses projetos é o [**fpcupdeluxe**](https://github.com/LongDirtyAnimAlf/fp
 
 ## Grupos brasileiros no whatsapp
 [🖥 Lazarus Brasil](https://chat.whatsapp.com/GCfWliSz47DJmwy5cgquFL)  
+
+## Grupos brasileiros no google groups
+[Lazarus-BR](https://groups.google.com/forum/#!forum/lazarus-br)  
