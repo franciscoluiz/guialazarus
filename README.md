@@ -1,6 +1,6 @@
 # Guia Lazarus
 
-Esse é um guia para orientar a todos aqueles que estão começando a desenvolver utilizando o Lazarus e também **muito útil para aqueles que estão vindo do Delphi**. Esse guia são para as pessoas que já possem conhecimento técnico na área programação e não visa ensinar sintaxe ou lógica de programação (pelo não por enquanto).  
+Esse é um guia para orientar a todos aqueles que estão começando a desenvolver utilizando o Lazarus e também **muito útil para aqueles que estão vindo do Delphi**. Esse guia são para as pessoas que já possem conhecimento técnico na área programação e não visa ensinar sintaxe ou lógica de programação (pelo menos não por enquanto).  
 
 Com a devida dedicação, qualquer um pode se tornar um lazarento!
 
@@ -44,10 +44,12 @@ Para todos os efeitos, quando utilizarmos nesse guia o termo **Lazarus**, estare
 # Por que utilizar o Lazarus?
 
 ## É barato
-Na verdade não é barato, é de graça. O Lazarus é gratuito e open-source. Para ficar mais claro: você não precisa comprar licença alguma para desenvolver e vender/alugar seus projetos. Não é necessário hipotecar sua casa para adquirir o direito de uso. Você não precisa vender seu rim ou sua córnea para comprar uma licença. Basta instalar e usar.
+Na verdade não é barato, é de graça. O Lazarus é gratuito e open-source. Para ficar mais claro: você não precisa comprar licença alguma para desenvolver e vender/alugar seus projetos. Não é necessário hipotecar sua casa para adquirir o direito de uso. Você não precisa vender seu rim ou sua córnea para comprar uma licença. Basta instalar e usar.  
+
+Não use crack. Use software livre. Seja livre! Lazarus na veia!
 
 ## É rápido, simples e prático
-É uma linguagem relativamente fácil e simples de aprender.
+É uma linguagem relativamente fácil e simples de aprender. A curva de aprendizado do pascal é relativamente simples.
 
 ## É multiplataforma
 O Lazarus suporta algumas tantas arquiteturas: AArch64, AMD64/x86-64, ARM, AVR, ECMASsript, i386, i8086, Intel i486, Intel x86, JVM, m68K, MIPS, mipsel, PowerPC, PowerPC64, SPARC, x86_64.
@@ -66,18 +68,18 @@ Preguiça.
 Futuramente teremos uma sessão detalhando cada um desses métodos.
 
 ## Para os conservadores
-O método *conservador* consiste na instalação convencional, é o famoso "next, next, next". Para tal basta acessar a [página oficial (https://freepascal.org)](https://freepascal.org/download.html), escolher seu ambiente, baixar e instalar.
+O método **conservador** consiste na instalação convencional, é o famoso "next, next, next". Para tal proeza basta acessar a [página oficial (https://freepascal.org)](https://freepascal.org/download.html), escolher seu ambiente, baixar e instalar. Aqui, a última versão estável do Lazarus e do FPC são instalados e configurados automaticamente.
 
 ## Para os ousados
-O método *ousadia* é para os intrépidos que querem a versão mais recente, ou que necessitam de versões específicas.  
+O método **ousadia** é para os intrépidos que querem a versão mais recente ou que necessitam de versões específicas.  
 
 Para tal, é necessário um mínimo de conhecimento a respeito, posteriormente basta acessar os repositórios:  
 [Repositório do FPC (https://svn.freepascal.org/svn/fpc/trunk)](https://svn.freepascal.org/svn/fpc/trunk)  
 [Repositório do Lazarus (https://svn.freepascal.org/svn/lazarus/trunk)](https://svn.freepascal.org/svn/lazarus/trunk)  
-Baixar, compilar e ser feliz.
+Baixar, compilar, configurar e ser feliz.
 
 ## Para os malucos
-Diga-se de passagem *maluco* pois você estará outorgando o trabalho de instalar para programas de terceiros. Existem projetos que auxiliam a instalação, automatizando praticamente tudo, inclusive facilitando o processo de crosscompiling.  
+Diga-se de passagem **maluco** pois você estará outorgando o trabalho de instalar para programas de terceiros. Existem projetos que auxiliam a instalação, automatizando praticamente tudo, inclusive facilitando o processo de crosscompiling.  
 
 Um desses projetos é o [**fpcupdeluxe**](https://github.com/LongDirtyAnimAlf/fpcupdeluxe).
 
