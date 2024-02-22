@@ -1,8 +1,8 @@
 # Guia Lazarus
 
-Esse é um guia para orientar a todos aqueles que estão começando a desenvolver utilizando o Lazarus e também **muito útil para aqueles que estão vindo do Delphi**. Esse guia são para as pessoas que já possem conhecimento técnico na área programação e não visa ensinar sintaxe ou lógica de programação (pelo menos não por enquanto).  
+Esse é um guia para orientar a todos aqueles que estão começando a desenvolver utilizando o Lazarus e também **muito útil para aqueles que estão vindo do Delphi**. Esse guia são para as pessoas que já possuem conhecimento técnico na área programação e não visa ensinar sintaxe ou lógica de programação (pelo menos não por enquanto).  
 
-Com a devida dedicação, qualquer um pode se tornar um lazarento!
+Com a devida dedicação, qualquer um pode se tornar um **lazarento**!
 
 # Índice
 
@@ -33,37 +33,35 @@ Com a devida dedicação, qualquer um pode se tornar um lazarento!
 # O que é, o que é?
 
 ## O que é Lazarus?
-**Lazarus** é uma ferramenta, uma IDE com a finalidade de agilizar o desenvolvimento e produção do **FPC**. 
+**Lazarus** é uma ferramenta, uma IDE com a finalidade de agilizar o desenvolvimento e produção de projetos com o **FPC**.
 
 ## O que é FPC?
-**FPC**, Free Pascal Compiler é o compilador pascal. Ele que interpreta e compila nosso código escrito em pascal.
+**FPC** ou Free Pascal Compiler é o compilador pascal. Ele que interpreta e compila nosso código escrito em pascal.
 
 ## Esclarecimentos
-É perfeitamente possível utilizar o FPC sem o Lazarus, basta utilizar a linha de comando e você compilará normalmente. É perfeitamente possível utilizar o Lazarus sem o FPC, você conseguirá editar seus projetos, mas não conseguirá compilar. 
+É perfeitamente possível utilizar o FPC sem o Lazarus, basta utilizar a linha de comando e você compilará normalmente. É perfeitamente possível utilizar o Lazarus sem o FPC, você conseguirá editar seus projetos, mas não conseguirá compilar.  
 
-Para todos os efeitos, quando utilizarmos nesse guia o termo **Lazarus**, estaremos nos referindo a todo o ecossistema de desenvolvimento, ou seja, Lazarus+FPC. Ok?
+Para todos os efeitos, quando nesse guia utilizarmos o termo **Lazarus**, estaremos nos referindo a todo o ecossistema de desenvolvimento, ou seja, Lazarus+FPC. Ok?
 
 # Por que utilizar o Lazarus?
 
 ## É barato
-Na verdade não é barato, é de graça. O Lazarus é gratuito e open-source. Para ficar mais claro: você não precisa comprar licença alguma para desenvolver e vender ou alugar seus projetos. Não é necessário hipotecar sua casa para adquirir o direito de uso. Você não precisa vender seu rim ou sua córnea para comprar uma licença. Basta instalar e usar.  
+Na verdade não é barato, é de graça. O Lazarus é gratuito e open-source. Para ficar mais claro: você não precisa comprar licença alguma para desenvolver, vender ou alugar seus projetos. Não é necessário hipotecar sua casa para adquirir o direito de uso. Você não precisa vender seu rim ou sua córnea para comprar uma licença. Basta instalar e usar.  
 
 Não use crack. Use software livre. Seja livre! Lazarus na veia!
 
 ## É rápido, simples e prático
-É uma linguagem relativamente fácil e simples de aprender. A curva de aprendizado do pascal é relativamente simples. Pascal é verboso e gostoso!
+É uma linguagem relativamente fácil e simples de aprender. A curva de aprendizado do pascal é relativamente simples. **Pascal é verboso e gostoso!**
 
 ## É multiplataforma
 O Lazarus suporta algumas tantas arquiteturas: AArch64, AMD64/x86-64, ARM, AVR, ECMASsript, i386, i8086, Intel i486, Intel x86, JVM, m68K, MIPS, mipsel, PowerPC, PowerPC64, SPARC, x86_64.
 
 E alguns sistemas operacionais: AIX, Amiga, Android (32 e 64 bit), BeOS, Darwin, DOS (16 e 32 bit), emx, FreeBSD, Go32v2, Haiku, iOS, iPhoneSim, Linux, Mac OS, MorphOS, Motorola 68k, MSDOS, NDS, NetBSD, Netware, NetwLibC, Nintendo DS, Nintendo GBA, Nintendo Wii, OpenBSD, OS/2, PalmOs, QNX, Solaris, Symbian, Watcom, wdox, Wii, Win32, Win64, WinCE.
 
-Confesso que tem coisa aí em cima que não faço nem ideia do que é...
-
-Da pro gasto né? Ainda mais se levar em consideração que a maior parte dos sistemas são direcionados para o windows, linux, mac e android...
+Confesso que tem coisa aí em cima que não faço nem ideia do que é, mas da pro gasto né? Ainda mais se levar em consideração que a maior parte dos sistemas são direcionados para o windows, linux, mac e android.
 
 ## Dependências
-Nenhuma. Você não precisa levar framework algum, tampouco instalar SDK/JDK ou bibliotecas externas, a não ser é claro, que você opte por isso, como por exemplo, bibliotecas de algum hardware especifico, componentes específicos.
+Nenhuma. Você não precisa levar framework algum, tampouco instalar SDK ou bibliotecas externas, a não ser é claro, que você opte por isso, como por exemplo, bibliotecas de algum hardware especifico ou componentes específicos.
 
 ## Por que não utilizar o Lazarus?
 Falta de vontade, preguiça, morbosidade é que faz uma pessoa não usar o Lazarus.
@@ -72,7 +70,7 @@ Falta de vontade, preguiça, morbosidade é que faz uma pessoa não usar o Lazar
 Futuramente teremos uma sessão detalhando cada um desses métodos.
 
 ## Para os conservadores
-O método **conservador** consiste na instalação convencional, é o famoso "next, next, next". Para tal proeza basta acessar a [página oficial (https://freepascal.org)](https://freepascal.org/download.html), escolher o setup para o seu ambiente, baixar e instalar. Aqui, a última versão estável do Lazarus e do FPC são instalados e configurados automaticamente.
+O método **conservador** consiste na instalação convencional, é o famoso "next, next, next". Para tal proeza basta acessar a [página oficial (https://www.lazarus-ide.org)](https://www.lazarus-ide.org), escolher o setup para o seu ambiente, baixar e instalar. Aqui, a última versão estável do Lazarus e do FPC são instalados e configurados automaticamente.
 
 ## Para os ousados
 O método **ousadia** é para os intrépidos que querem a versão mais recente ou que necessitam de versões específicas.
@@ -80,12 +78,13 @@ O método **ousadia** é para os intrépidos que querem a versão mais recente o
 Para tal, é necessário um mínimo de conhecimento a respeito, posteriormente basta baixar os repositórios:  
 [Repositório do FPC (https://svn.freepascal.org/svn/fpc/trunk)](https://svn.freepascal.org/svn/fpc/trunk)  
 [Repositório do Lazarus (https://svn.freepascal.org/svn/lazarus/trunk)](https://svn.freepascal.org/svn/lazarus/trunk)  
+
 Baixar, compilar, configurar e ser feliz.
 
 ## Para os malucos
-Diga-se de passagem **maluco** pois você estará outorgando o trabalho da instalação do Lazarus, para programas de terceiros. Existem projetos que auxiliam a instalação, automatizando praticamente tudo, inclusive facilitando o processo de crosscompiling.
+Diga-se de passagem **maluco** pois você estará outorgando o trabalho da instalação do Lazarus, para programas de terceiros. Existem projetos que auxiliam a instalação, automatizando praticamente tudo, inclusive facilitando o processo de crosscompiling. Algumas pessoas acham esse processo inseguro, outras, acham maluquice. 
 
-Um desses projetos é o [**fpcupdeluxe**](https://github.com/LongDirtyAnimAlf/fpcupdeluxe).
+Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/LongDirtyAnimAlf/fpcupdeluxe).
 
 # Links Uteis
 
@@ -148,8 +147,10 @@ Um desses projetos é o [**fpcupdeluxe**](https://github.com/LongDirtyAnimAlf/fp
 # Componentes
 
 ## Brazucas
+[ACBr](https://projetoacbr.com.br)  
 [Brook Framework](https://github.com/risoflora/brookframework)  
-[REST Dataware](https://sourceforge.net/projects/rest-dataware-componentes)  
+[Fortes-CE](https://github.com/fortesinformatica/fortesreport-ce)  
+[REST Dataware](https://sourceforge.net/projects/rest-dataware-componentes)
 
 ## Geral
 [ZeosLib](https://sourceforge.net/projects/zeoslib)  
