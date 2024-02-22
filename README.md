@@ -14,6 +14,7 @@ Com a devida dedicação, qualquer um pode se tornar um **lazarento**!
   * [É barato](#&Eacute;-barato)
   * [É rápido, simples e prático](#&Eacute;-r&aacute;pido-simples-e-pr&aacute;tico)
   * [É multiplataforma](#&Eacute;-multiplataforma)
+  * [Cross Compiling](#Cross-Compiling)
   * [Dependências](#Depend&ecirc;ncias)
   * [Por que não utilizar o Lazarus?](#Por-que-n&atilde;o-utilizar-o-Lazarus)
 - [Instalação](#Instala&ccedil;&atilde;o)
@@ -60,6 +61,9 @@ E alguns sistemas operacionais: AIX, Amiga, Android (32 e 64 bit), BeOS, Darwin,
 
 Confesso que tem coisa aí em cima que não faço nem ideia do que é, mas da pro gasto né? Ainda mais se levar em consideração que a maior parte dos sistemas são direcionados para o windows, linux, mac e android.
 
+## Cross Compiling
+Sim! Você pode compilar seus executáveis windows estando no linux. Sim! Você pode compilar seus binários linux estando no windows. Você pode gerar seus projetos em seu ambiente favorito direto para o ambiente do cliente!
+
 ## Dependências
 Nenhuma. Você não precisa levar framework algum, tampouco instalar SDK ou bibliotecas externas, a não ser é claro, que você opte por isso, como por exemplo, bibliotecas de algum hardware especifico ou componentes específicos.
 
@@ -82,7 +86,7 @@ Para tal, é necessário um mínimo de conhecimento a respeito, posteriormente b
 Baixar, compilar, configurar e ser feliz.
 
 ## Para os malucos
-Diga-se de passagem **maluco** pois você estará outorgando o trabalho da instalação do Lazarus, para programas de terceiros. Existem projetos que auxiliam a instalação, automatizando praticamente tudo, inclusive facilitando o processo de crosscompiling. Algumas pessoas acham esse processo inseguro, outras, acham maluquice. 
+Diga-se de passagem **maluco** pois você estará outorgando o trabalho da instalação do Lazarus, para programas de terceiros. Existem projetos que auxiliam a instalação, automatizando praticamente tudo, inclusive facilitando o processo de crosscompiling. Algumas pessoas acham esse processo inseguro, outras, acham maluquice (*me gusta*). 
 
 Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/LongDirtyAnimAlf/fpcupdeluxe).
 
@@ -96,12 +100,15 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [Lazarus & Delphi - Brasil](https://telegram.me/LazBrasil)  
 [Lazarus Brazil](https://telegram.me/lazarusbrazil)  
 [Vagas Delphi / Lazarus](https://telegram.me/vagasdelphibr)  
+[RestDataWare Oficial](https://telegram.me/restdatawareoficial)  
+[WBotCe](https://telegram.me/wbotce)  
 
 ## Grupos no whatsapp
-[🖥 Lazarus Brasil](https://chat.whatsapp.com/DwEvGFmQyB3J2jLcTJblTn)
+[Lazarus Brasil](https://chat.whatsapp.com/DwEvGFmQyB3J2jLcTJblTn)  
+[WBotCe](https://chat.whatsapp.com/HpgvHZ0iSzs6Svc6wouGzH)  
 
 ## Grupos no google groups
-[Lazarus-BR](https://groups.google.com/forum/#!forum/lazarus-br)
+[Lazarus-BR](https://groups.google.com/forum/#!forum/lazarus-br)  
 
 ## Canais
 [99 Coders](https://www.youtube.com/@99coders)  
@@ -150,10 +157,14 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [ACBr](https://projetoacbr.com.br)  
 [Brook Framework](https://github.com/risoflora/brookframework)  
 [Fortes-CE](https://github.com/fortesinformatica/fortesreport-ce)  
-[REST Dataware](https://sourceforge.net/projects/rest-dataware-componentes)
+[Open Source Community Brasil](https://github.com/OpenSourceCommunityBrasil)  
+[PascalLibs](https://github.com/OpenSourceCommunityBrasil/PascalLibs)
+[REST Dataware SourceForge](https://sourceforge.net/projects/rest-dataware-componentes)  
+[REST Dataware GitHub](https://github.com/OpenSourceCommunityBrasil/REST-DataWare)  
+[WBotCe](https://github.com/OpenSourceCommunityBrasil/WBotCE)  
 
 ## Geral
-[ZeosLib](https://sourceforge.net/projects/zeoslib)  
-[mORMot](https://github.com/synopse/mORMot)  
 [Awesome-Pascal](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-pascal)  
-[Awesome-delphi](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-delphi)
+[Awesome-delphi](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-delphi)  
+[mORMot](https://github.com/synopse/mORMot)  
+[ZeosLib](https://sourceforge.net/projects/zeoslib)  
