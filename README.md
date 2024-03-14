@@ -133,7 +133,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [Humberto Sales - Rumble](https://rumble.com/c/c-1389652)  
 [Humberto Sales - CosTv](https://cos.tv/channel/37299284183262208)  
 [Marcos Douglas](https://www.youtube.com/@mdbs99)  
-[MarcosMissel](https://www.youtube.com/@MarcosMissel)
+[MarcosMissel](https://www.youtube.com/@MarcosMissel)  
 [MfrInfo](https://www.youtube.com/@mfrinfo4273)  
 [Palm Sistemas](https://www.youtube.com/@palmsistemas2820)  
 [Rai Duarte](https://www.youtube.com/@raijales)  
