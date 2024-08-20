@@ -140,6 +140,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [Ricardo Sierban](https://www.youtube.com/@blogueirosamurai)  
 [SchoolFreeware](https://www.youtube.com/@SchoolFreeware)  
 [Sergio Falco Daniel](https://www.youtube.com/@sergiofalcodaniel9445)  
+[TWtutoriais](https://www.youtube.com/@TWtutoriais)  
 [Valtran Silva](https://www.youtube.com/@InfoGames554)  
 [Vinicius Sanchez](https://www.youtube.com/@ViniciusSanchez)  
 [Warleyalex](https://www.youtube.com/@warleyalexcamargo)
