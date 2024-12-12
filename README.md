@@ -137,6 +137,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [MfrInfo](https://www.youtube.com/@mfrinfo4273)  
 [Palm Sistemas](https://www.youtube.com/@palmsistemas2820)  
 [Rai Duarte](https://www.youtube.com/@raijales)  
+[RSC SISTEMAS](https://www.youtube.com/@RSC_SISTEMAS)  
 [Ricardo Sierban](https://www.youtube.com/@blogueirosamurai)  
 [SchoolFreeware](https://www.youtube.com/@SchoolFreeware)  
 [Sergio Falco Daniel](https://www.youtube.com/@sergiofalcodaniel9445)  
