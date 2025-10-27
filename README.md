@@ -159,6 +159,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 
 ## Brazucas
 [ACBr](https://projetoacbr.com.br)  
+[D2Bridge](https://d2bridge.com.br)  
 [Brook Framework](https://github.com/risoflora/brookframework)  
 [Fortes-CE](https://github.com/fortesinformatica/fortesreport-ce)  
 [Open Source Community Brasil](https://github.com/OpenSourceCommunityBrasil)  
@@ -170,6 +171,8 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 ## Geral
 [Awesome-Pascal](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-pascal)  
 [Awesome-Pascal Github](https://github.com/Fr0sT-Brutal/awesome-pascal)  
+[Lazarus IDE – Guia de Sobrevivência](https://gladiston.net.br/programacao/lazarus-ide/)  
 [Awesome-delphi](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-delphi)  
 [mORMot](https://github.com/synopse/mORMot)  
 [ZeosLib](https://sourceforge.net/projects/zeoslib)  
+
