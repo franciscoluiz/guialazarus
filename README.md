@@ -147,13 +147,15 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [Vinicius Sanchez](https://www.youtube.com/@ViniciusSanchez)  
 [Warleyalex](https://www.youtube.com/@warleyalexcamargo)
 
-## Portais
+## Sites em geral
 [Academia do Código](https://www.youtube.com/@AcademiadoCodigo)  
 [Aprenda Lazarus](https://aprendalazarus.com.br)  
-[ShowDelphi](https://showdelphi.com.br)  
-[Neri](https://www.youtube.com/@nerineitzke)  
-[T2Ti](https://www.youtube.com/@T2Ti)  
+[Formation FreePascal/Lazarus](https://github.com/NDXDeveloper/formation-freepascal-lazarus-fondamentaux)  
+[Lazarus IDE – Guia de Sobrevivência](https://gladiston.net.br/programacao/lazarus-ide/)  
 [Laz Planet](https://lazplanet.blogspot.com)  
+[Neri](https://www.youtube.com/@nerineitzke)  
+[ShowDelphi](https://showdelphi.com.br)  
+[T2Ti](https://www.youtube.com/@T2Ti)  
 
 # Componentes
 
@@ -172,7 +174,6 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [Awesome-Pascal](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-pascal)  
 [Awesome-Pascal Github](https://github.com/Fr0sT-Brutal/awesome-pascal)  
 [Awesome-delphi](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-delphi)  
-[Lazarus IDE – Guia de Sobrevivência](https://gladiston.net.br/programacao/lazarus-ide/)  
 [mORMot](https://github.com/synopse/mORMot)  
 [ZeosLib](https://sourceforge.net/projects/zeoslib)  
 
