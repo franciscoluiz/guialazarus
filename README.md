@@ -171,8 +171,9 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 ## Geral
 [Awesome-Pascal](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-pascal)  
 [Awesome-Pascal Github](https://github.com/Fr0sT-Brutal/awesome-pascal)  
-[Lazarus IDE – Guia de Sobrevivência](https://gladiston.net.br/programacao/lazarus-ide/)  
 [Awesome-delphi](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-delphi)  
+[Lazarus IDE – Guia de Sobrevivência](https://gladiston.net.br/programacao/lazarus-ide/)  
 [mORMot](https://github.com/synopse/mORMot)  
 [ZeosLib](https://sourceforge.net/projects/zeoslib)  
+
 
