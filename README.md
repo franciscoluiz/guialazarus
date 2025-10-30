@@ -93,14 +93,15 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 # Links Uteis
 
 ## Grupos no telegram
-[Lazarus Free Pascal](https://telegram.me/lazarusfreepascal1)  
-[LazarusBR](https://telegram.me/LazarusBR)  
-[REST Dataware](https://telegram.me/restdatawareoficial)  
 [FreePascal & Lazarus](https://telegram.me/freepascal_en)  
-[Lazarus & Delphi - Brasil](https://telegram.me/LazBrasil)  
+[LazarusBR](https://telegram.me/LazarusBR)  
 [Lazarus Brazil](https://telegram.me/lazarusbrazil)  
-[Vagas Delphi / Lazarus](https://telegram.me/vagasdelphibr)  
+[Lazarus Free Pascal](https://telegram.me/lazarusfreepascal1)  
+[Lazarus & Delphi - Brasil](https://telegram.me/LazBrasil)  
+[Pascal BR](https://t.me/pascalbrasil)  
+[REST Dataware](https://telegram.me/restdatawareoficial)  
 [RestDataWare Oficial](https://telegram.me/restdatawareoficial)  
+[Vagas Delphi / Lazarus](https://telegram.me/vagasdelphibr)  
 [WBotCe](https://telegram.me/wbotce)  
 
 ## Grupos no whatsapp
@@ -176,5 +177,6 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [Awesome-delphi](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-delphi)  
 [mORMot](https://github.com/synopse/mORMot)  
 [ZeosLib](https://sourceforge.net/projects/zeoslib)  
+
 
 
