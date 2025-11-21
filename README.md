@@ -93,6 +93,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 # Links Uteis
 
 ## Grupos no telegram
+[D2Bridge (Telegram)](http://t.me/d2bridge)  
 [FreePascal & Lazarus](https://telegram.me/freepascal_en)  
 [LazarusBR](https://telegram.me/LazarusBR)  
 [Lazarus Brazil](https://telegram.me/lazarusbrazil)  
@@ -105,11 +106,13 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [WBotCe](https://telegram.me/wbotce)  
 
 ## Grupos no whatsapp
+[D2Bridge (Whatsapp)](https://chat.whatsapp.com/Jz8ditsGyzl79eSI5tL5Cq)  
+[D2Bridge for Lazarus (Whatsapp)](https://chat.whatsapp.com/BlFAhfOZPny3GFSSH4LPxI)  
 [Lazarus Brasil](https://chat.whatsapp.com/DwEvGFmQyB3J2jLcTJblTn)  
 [WBotCe](https://chat.whatsapp.com/HpgvHZ0iSzs6Svc6wouGzH)  
 
 ## Grupos no google groups
-[Lazarus-BR](https://groups.google.com/forum/#!forum/lazarus-br)  
+[Lazarus-BR (Google Groups)](https://groups.google.com/forum/#!forum/lazarus-br)  
 
 ## Canais
 [99 Coders](https://www.youtube.com/@99coders)  
@@ -120,6 +123,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [Alexandre Magno](https://www.youtube.com/@Alexandre_amds)  
 [Aprenda Lazarus com Pedro Araújo](https://www.youtube.com/@aprendalazarus)  
 [Ari Rodrigues](https://www.youtube.com/@arirodrigues5929)  
+[D2Bridge (Youtube Oficial)](https://www.youtube.com/@talisjonatas)  
 [Daniel Morais Infocotidiano](https://www.youtube.com/@infocotidiano)  
 [Daniel Steckler](https://www.youtube.com/@DanielSteckler)  
 [Eder Telhado](https://www.youtube.com/@edertelhado8246)  
@@ -177,6 +181,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [Awesome-delphi](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-delphi)  
 [mORMot](https://github.com/synopse/mORMot)  
 [ZeosLib](https://sourceforge.net/projects/zeoslib)  
+
 
 
 
