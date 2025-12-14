@@ -137,6 +137,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [JR Escola](https://www.youtube.com/@jrescola8453)  
 [Humberto Sales - Rumble](https://rumble.com/c/c-1389652)  
 [Humberto Sales - CosTv](https://cos.tv/channel/37299284183262208)  
+[Marcio Soares](https://www.youtube.com/@marciosoares7276)  
 [Marcos Douglas](https://www.youtube.com/@mdbs99)  
 [MarcosMissel](https://www.youtube.com/@MarcosMissel)  
 [Melissa Treinamentos](https://www.youtube.com/@melissatreinamentos)  
@@ -173,6 +174,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [PascalLibs](https://github.com/OpenSourceCommunityBrasil/PascalLibs)  
 [REST Dataware SourceForge](https://sourceforge.net/projects/rest-dataware-componentes)  
 [REST Dataware GitHub](https://github.com/OpenSourceCommunityBrasil/REST-DataWare)  
+[Topazio](https://github.com/ams2k/topazzio)  
 [WBotCe](https://github.com/OpenSourceCommunityBrasil/WBotCE)  
 
 ## Geral
@@ -181,6 +183,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [Awesome-delphi](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-delphi)  
 [mORMot](https://github.com/synopse/mORMot)  
 [ZeosLib](https://sourceforge.net/projects/zeoslib)  
+
 
 
 
