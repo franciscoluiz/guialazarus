@@ -143,7 +143,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [Melissa Treinamentos](https://www.youtube.com/@melissatreinamentos)  
 [MfrInfo](https://www.youtube.com/@mfrinfo4273)  
 [MG Missel](https://www.youtube.com/@MarcosMissel)  
-[ulti platform programming](https://www.youtube.com/@allaboutmultiplatformcoding)  
+[Multi platform programming](https://www.youtube.com/@allaboutmultiplatformcoding)  
 [Palm Sistemas](https://www.youtube.com/@palmsistemas2820)  
 [Rai Duarte](https://www.youtube.com/@raijales)  
 [RSC SISTEMAS](https://www.youtube.com/@RSC_SISTEMAS)  
@@ -185,6 +185,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [Awesome-delphi](https://awesomeopensource.com/project/Fr0sT-Brutal/awesome-delphi)  
 [mORMot](https://github.com/synopse/mORMot)  
 [ZeosLib](https://sourceforge.net/projects/zeoslib)  
+
 
 
 
