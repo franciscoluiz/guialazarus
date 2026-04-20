@@ -145,6 +145,7 @@ Nesse segmento o projeto mais popular é o [**fpcupdeluxe**](https://github.com/
 [MG Missel](https://www.youtube.com/@MarcosMissel)  
 [Multi platform programming](https://www.youtube.com/@allaboutmultiplatformcoding)  
 [Palm Sistemas](https://www.youtube.com/@palmsistemas2820)  
+[Programming Drops](https://www.youtube.com/@programmingdrops)  
 [Rai Duarte](https://www.youtube.com/@raijales)  
 [RSC SISTEMAS](https://www.youtube.com/@RSC_SISTEMAS)  
 [Ricardo Sierban](https://www.youtube.com/@blogueirosamurai)  
